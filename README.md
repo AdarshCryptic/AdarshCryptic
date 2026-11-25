@@ -4,15 +4,15 @@
 
 <img src="https://raw.githubusercontent.com/AdarshCryptic/GHOSTPATH-X/main/apps/api/static/assets/logo.svg" alt="GHOSTPATH X logo" width="100"/>
 
-# Hi, I'm Adarsh 👻
+# Hi, I'm Adarsh
 
 **Offensive Security Researcher · Web App Pentester · AI Red-Teamer**
 
-📍 India
+📍 India · 🌐 [Portfolio](https://adarshcryptic.github.io/) · 💼 [LinkedIn](https://www.linkedin.com/in/adarsh-chaudhari-15629b325)
 
 I break web apps — safely, inside isolated labs — and build machines that do it too.
 
-<img src="https://media.giphy.com/media/uSV1MnXz3RM3u/giphy.gif" alt="Matrix rain" width="600"/>
+<img src="./hacker-banner.gif" alt="Hacker banner — radar sweep and an unlocking padlock over matrix rain" width="600"/>
 
 </div>
 
@@ -42,8 +42,8 @@ I break web apps — safely, inside isolated labs — and build machines that do
 
 | Project | What it does |
 |---|---|
-| [👻 **GHOSTPATH X**](https://github.com/AdarshCryptic/GHOSTPATH-X) | Autonomous attack-path discovery & exploit validation engine. Finds attack paths in a web app and **proves** each one really works — safely inside an isolated lab. |
-| [👻 **GHOST**](https://github.com/AdarshCryptic/Project-GHOST-AI-Agent-Hijack-Simulator) | AI agent hijack simulator. Injects harmless canary instructions into test documents and measures whether an agent follows them. |
+| [**GHOSTPATH X**](https://github.com/AdarshCryptic/GHOSTPATH-X) | Autonomous attack-path discovery & exploit validation engine. Finds attack paths in a web app and **proves** each one really works — safely inside an isolated lab. |
+| [**GHOST**](https://github.com/AdarshCryptic/Project-GHOST-AI-Agent-Hijack-Simulator) | AI agent hijack simulator. Injects harmless canary instructions into test documents and measures whether an agent follows them. |
 
 ---
 
